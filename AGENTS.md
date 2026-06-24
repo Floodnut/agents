@@ -75,10 +75,10 @@ Strong success criteria let you loop independently. Weak criteria ("make it work
 ## 5. Local Knowledge Base
 
 For reusable project knowledge, use the local knowledge base instead of repeatedly reloading the same external sources.
-- Before web search or reading long external documents, check `~/agent/knowledge/index.md` first when the topic may already be covered by local project knowledge.
+- Before web search or reading long external documents, check `~/agents/knowledge/index.md` first when the topic may already be covered by local project knowledge.
 - After non-trivial research, incident analysis, design decisions, or repeated findings, update the knowledge base when the result is likely to be reused.
 - Treat local notes as a source-backed cache, not as automatically trusted truth. Re-verify time-sensitive or version-sensitive information.
-- Follow the read/write triggers, index format, and file format defined in `~/agent/knowledge/README.md`. 
+- Follow the read/write triggers, index format, and file format defined in `~/agents/knowledge/README.md`. 
 - Tags and index categories may evolve over time. Reuse existing tags when possible, and add new ones when needed for discoverability.
 
 ---
